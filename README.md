@@ -25,3 +25,4 @@
 | dice_img    | Roll dice image randomly when shaking |
 | dice_num    | Roll dice number (1-6) randomly when shaking |
 | countdown   | Do a graphical countdown. Press A to start and B to change starting value |
+| thermometer | Displays temperature. If a button is pressed the temperature changes between celsius and fahrenheit|
