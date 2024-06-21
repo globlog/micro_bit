@@ -1,11 +1,10 @@
 1. Tetris stacker (clear lines vs rising level)
 2. Car Game/Frogger
 3. Flappy bird
-6. Morse code
-8. gioco dinosauro saltante
+8. gioco dinosauro saltante (chrome)
 9. bolla
 11. devices package (interazione con cellulare?)
 12. high low
 13. termometro in fahrenheit
 14. + AI -> mostra il risultato (dato input da webcam)
-15. gioco dei 10 secondi (Azzecca)
+15. gioco dei 10 secondi (Azzecca il timer quando scade)
