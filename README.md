@@ -8,7 +8,7 @@
 | evade       | Evade the falling stones by moving left and right with the buttons A and B |
 | stacker     | Emulates the game stacker played at arcades. Drop the blocks on top of eachother |
 | snake       | Emulates the classic snake game. Press B to change from warp mode (no walls) to walls |
-| hilo        | Guess if the next card is greater or smaller (2-10,J,Q,K). A to guess higher, B to guess lower. |
+| hilo        | Guess if the next card is greater or smaller (2-9, T, J, Q, K, A). Press A to guess higher, B to guess lower. |
 
 **/physics**
 
