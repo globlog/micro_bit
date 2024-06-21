@@ -3,7 +3,6 @@
 3. Flappy bird
 4. Countdown timer
 6. Morse code
-7. snake
 8. gioco dinosauro saltante
 9. bolla
 11. devices package (interazione con cellulare?)
