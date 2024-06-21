@@ -21,3 +21,5 @@
 | ----------- | ----------- |
 | bin_clock   | Displays time with a binary clock |
 | compass     | Arrow pointing towards north |
+| dice_img     | Roll dice image randomly when shaking |
+| dice_num     | Roll dice number (1-6) randomly when shaking |
