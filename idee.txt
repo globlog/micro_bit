@@ -6,3 +6,7 @@
 7. snake
 8. gioco dinosauro saltante
 9. bolla
+11. devices package (interazione con cellulare?)
+12. high low
+13. termometro in fahrenheit
+14. + AI -> mostra il risultato (
