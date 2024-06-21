@@ -1,0 +1,19 @@
+1. Tetris stacker (clear lines vs rising level)
+2. Car Game/Frogger
+3. Flappy bird
+4. Countdown timer
+6. Morse code
+7. snake
+8. gioco dinosauro saltante
+
+----
+FAM 2.5
+MATE 4
+----
+
+I1 2
+I2 2
+OC III 2 
+OC IV 2
+MO 1
+
