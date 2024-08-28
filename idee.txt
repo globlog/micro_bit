@@ -1,6 +1,4 @@
 1. Tetris stacker (clear lines vs rising level)
 2. Car Game/Frogger
-3. Flappy bird
-8. gioco dinosauro saltante (chrome)
 11. devices package (interazione con cellulare?)
 14. combined with AI -> mostra il risultato (dato input da webcam)
