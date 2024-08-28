@@ -1,0 +1,4 @@
+1	Plug in the micro:bit and open a new terminal window. 
+2	Type ls /dev/cu.* to get a list of connected serial devices; one of them will look like /dev/cu.usbmodem1422 (the exact number depends on your computer).
+3	Type screen /dev/cu.usbmodem1422 115200, replacing the 'usbmodem' number with the number you found in the previous step. This will open the micro:bit's serial output and show all messages received from the device. 
+4	To exit, press Ctrl-A then Ctrl-D.

@@ -21,6 +21,7 @@
 | ----------- | ----------- |
 | gravity_1       | Tilt the micro:bit to move the ball accordingly using the accelerometer|
 | gravity_2     | Tilt the micro:bit to move the ball accordingly using the accelerometer and leaving a trail |
+| 
 
 **/utils**
 | Name        | Description |
@@ -30,4 +31,5 @@
 | dice_img    | Roll dice image randomly when shaking |
 | dice_num    | Roll dice number (1-6) randomly when shaking |
 | countdown   | Do a graphical countdown. Press A to start and B to change starting value |
+| kahoot   | Players choose their answer with A and send them to the host with B . When ready, B selects answer and sends the answers to all. When game is finished B sends points and ranks.|
 | thermometer | Displays temperature. If a button is pressed the temperature changes between celsius and fahrenheit|
